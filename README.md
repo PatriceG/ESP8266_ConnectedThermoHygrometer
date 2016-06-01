@@ -11,5 +11,5 @@
 * The default LOOP_DELAY is 300 000 ms (5min) between each measure
 
 * The DHT22 sensor is connected on GPIO 2 as specified by the DHTPIN constant.
-* 
+
 * The metrics are sent with the names *temperature.work* and *humidity.work*. The ".work" sub-metric is because I use 2 of these things. One at home with the submetric ".home" and one at work.
